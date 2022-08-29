@@ -1,5 +1,8 @@
 
 /* Navbar Settings Starts Here */
+body{
+    overflow-x: hidden
+}
 .navbar{
     padding-left: 150px;
     padding-right: 150px;
